@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tooltip_CN/static/css/main.e3a04ffa.css",
+    "main.js": "/tooltip_CN/static/js/main.70d4ddba.js",
+    "static/js/787.377af30d.chunk.js": "/tooltip_CN/static/js/787.377af30d.chunk.js",
+    "index.html": "/tooltip_CN/index.html",
+    "main.e3a04ffa.css.map": "/tooltip_CN/static/css/main.e3a04ffa.css.map",
+    "main.70d4ddba.js.map": "/tooltip_CN/static/js/main.70d4ddba.js.map",
+    "787.377af30d.chunk.js.map": "/tooltip_CN/static/js/787.377af30d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e3a04ffa.css",
+    "static/js/main.70d4ddba.js"
+  ]
+}
